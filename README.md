@@ -15,6 +15,7 @@ This repository provides various techniques for reading files and tables from di
 | **Parquet** | `pandas` | `pd.read_parquet("file.xml")` |
 | **HTML Table (Wikipedia)** | `pandas` | `pd.read_html(url)[0]` |
 
+#Supporting files json file and parquet file also attached.
 
 Stay tuned for more enhancements! 🚀
 
